@@ -21,3 +21,7 @@ In the Files above there should be:
 ![image](https://user-images.githubusercontent.com/98726670/162652248-bd6de5dc-b203-41f0-be47-5a02e4314065.png)
 
 Next we upload the code given and play music to test it. The potentiometer on the module can be adjusted to vary the sensitivity.
+
+# Video of Operation
+
+https://youtu.be/twndRRlfp8g
