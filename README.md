@@ -3,7 +3,7 @@ This was done for the ECE 387 Midterm chip analysis. I used the sound sensor mod
 
 ![image](https://user-images.githubusercontent.com/98726670/162654756-0673a032-67c4-428d-a808-0ab0a160ec2a.png)
 
-In the Files above there should be:
+In this folder there should be:
 * Arduino Implementation Code
 * C code implementation
 * Video of the module being used
